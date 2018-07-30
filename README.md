@@ -1,0 +1,2 @@
+# friendlychat
+First flutter app
